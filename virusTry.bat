@@ -1,0 +1,1 @@
+shutdown -s -t 05 -c "Your device has been hacked!"
