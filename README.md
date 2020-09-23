@@ -10,3 +10,6 @@ WELL... AND, ACTUALLY, WRITING THE ABOVE LINE WAS PRETTY USELESS, SINCE ALMOST N
 So anyway, I am also adding an antivirus, for the "virusTry.bat" file. the way it works, is, you are supposed to click on the antivirus file, if you accidently click on vrusTry... to prevent you device from shutting down. So, keep the both file at the same loction(that's what smart people would do!)... But, still, as i said, "virusTry.bat" is not at all harmful, if not used TOO MUCH. trust me, i myself openned it on my own device more than 5 times, and, all fine!
 
 I have recently added some more virus files to this repository... trust me, they can scare the shit out of you, but all you need to override them, is one simple click, or a sinple restart here and there, and you are all set.
+
+Umm... well, ok.. now... I have added a few files, which, MIGHT have the potential to completely ruin your device! 
+So... be careful, read the names of the files carefully, some of them consist of number and "levels", and trust me, as the level increases, the capacity of the virus increases, so, i would recommend you all, to please, use these files, only for EDUCATIONAL PURPOSES
