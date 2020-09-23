@@ -13,3 +13,5 @@ I have recently added some more virus files to this repository... trust me, they
 
 Umm... well, ok.. now... I have added a few files, which, MIGHT have the potential to completely ruin your device! 
 So... be careful, read the names of the files carefully, some of them consist of number and "levels", and trust me, as the level increases, the capacity of the virus increases, so, i would recommend you all, to please, use these files, only for EDUCATIONAL PURPOSES
+
+Even though i have not tested any of them yet, on my own device(since i am not a total idiot), please be careful, before you play around with any of them.
