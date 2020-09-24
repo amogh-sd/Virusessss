@@ -37,16 +37,5 @@ THANK YOU
 
 # List Of File, and their override options, IF ANY!
 
-NAME                  EXTENSION                   OVERRIDE OPTIONS 
-
-virusTry              .bat                        Click on "antivirus.bat" within less than 5 seconds
-virusLevel2           .bat                        Click on "virusTry.bat" while you can, or simply shutdown/restart the device. Even if you do none of them, your OS is likely to                                                   detect that it is a virus, and restart itself
-newVirus3             .vbs                        Press CTRL+SHIFT+DEL >then> Sign Out, and restart.
-autoType              .vbs                        Same as newVirus3.vbs
-errorMsg              .vbs                        No need of one... it's not even a virus
-loop                  .bat                        No need of one... it's not even a virus
-wormy                 .bat                        *It will creat two folders on your device: one of them at the location they are ceated and other one, in your startup folder*                                                     so you need to locate them, and delete them...(antually, this override is not accurate, but i have told the main thing, so you                                                   can be safe from this worm, if you follow these instructions, just keep in mind that, you may not see everything as expected,                                                     so delete all the suspecting files and folders)
-virusLEVEL4           .bat                        None, which i know of, you can try to shutdown or restart your device, but most probably it wont work, so i would suggest you                                                     to test this on a spare device or something.. InFact, i myself have not tested it(since i dont want to take a risk), but you                                                     can try it on a spare device for sure... and also, please be sure to tell me how it works, PLEASE,  IT IS A REQUEST
-virusLevel5           .bat                        It is a matter of common sense that, sonce I don't know an override options for the virusLEVEL4 itself, how am i supposed to                                                     know an override option for a much developed virus than it? But still, IF ANYONE MANAGES TO FIND OUT MORE OVERRISE OPTIONS FOR                                                   ANY OF THESE FILES, PLEASE LET ME KNOW..
-
-
+Please refer this link-
+https://lh3.googleusercontent.com/-FGCGJkB6PQc/X2yXPzAhMvI/AAAAAAAACgg/swevHLizh2MHUxhutzDh00Lk4Wh_le5mQCNcBGAsYHQ/image.png
